@@ -39,3 +39,5 @@ gem 'jquery-rails'
 
 gem "carrierwave"
 gem 'rmagick', :require => 'RMagick'
+gem "pry-rails"
+gem "bcrypt-ruby"
